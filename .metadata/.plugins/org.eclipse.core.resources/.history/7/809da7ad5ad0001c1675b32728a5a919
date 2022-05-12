@@ -1,0 +1,16 @@
+package refelection;
+import java.lang.reflect.Constructor;
+import java.lang.reflect.Field;
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
+import java.lang.reflect.Parameter;
+
+public class ClassMembers {
+
+	public static void main(String[] args)
+	{
+		
+
+	}
+
+}

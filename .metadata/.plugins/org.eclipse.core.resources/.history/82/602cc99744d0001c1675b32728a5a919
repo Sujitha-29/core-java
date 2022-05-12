@@ -1,0 +1,11 @@
+package com.chainsys.threads;
+
+public class RunnableWorker implements Runnable {
+
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
